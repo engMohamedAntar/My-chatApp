@@ -1,5 +1,5 @@
 //script.js
-const socket= io();//"https://spiffy-pine-pail.glitch.me"
+const socket= io();//"https://nettle-local-halloumi.glitch.me"
 
 const messagesDiv= document.getElementById('messages');
 const usersListDiv= document.getElementById('usersList');
